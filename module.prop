@@ -1,0 +1,6 @@
+id=nothing_2a_soft_volume
+name=Soft Volume Curve for Nothing(2a)
+version=v1.0
+versionCode=1
+author=MGR-dev
+description=2aの15段階制限を維持しつつ、音の立ち上がりをソフトに再設計。深夜でも繊細な微調整を可能にする専用パッチ。 / Softens volume curves for Nothing Phone (2a) within the 15-step hardware limit. Enables delicate audio adjustment even at low levels.
